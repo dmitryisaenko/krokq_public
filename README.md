@@ -57,4 +57,4 @@ Krokq runs on LaraFoundry, my own SaaS engine package (companies, users, roles, 
 
 - App: https://krokq.com
 - LaraFoundry engine: https://larafoundry.com
-- Write up on dev.to: https://dev.to/d_isaenko_dev/meet-krokq-a-light-adaptable-task-tracker-and-chat-under-one-shell-adf
+- How it works (dev.to): https://dev.to/d_isaenko_dev/meet-krokq-a-light-adaptable-task-tracker-and-chat-under-one-shell-adf
