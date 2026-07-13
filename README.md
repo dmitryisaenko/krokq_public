@@ -2,11 +2,11 @@
   <img src="assets/krokq-logo.png" alt="Krokq" width="380">
 </p>
 
-<p align="center">A light, adaptable task tracker and chat under one shell. Completely free.</p>
+<p align="center">A light, adaptable task tracker and chat with a built-in AI assistant, under one shell. Completely free.</p>
 
 # Krokq (pronounced [krok])
 
-Think "Jira, but a lot simpler". Adaptable is the point: through simple connections Krokq bends to whatever a team actually needs, instead of forcing the team to bend to the tool.
+Think "Jira, but a lot simpler". Adaptable is the point: through simple connections Krokq bends to whatever a team actually needs, instead of forcing the team to bend to the tool. And now there is a built-in AI assistant, so you can create a task just by speaking.
 
 This is the public repo about Krokq: what it is, why it exists, and what it can do. The application code itself is closed.
 
@@ -28,6 +28,7 @@ The chat itself feels like the messengers you already use, so there is almost no
 
 Tasks:
 
+- a built-in AI assistant: create a task by voice, in plain words, in any of 10 languages
 - a real workflow: New, In progress, Rework, In review, Done, plus Trash and Archive
 - custom task types, a board with columns, urgent items
 - threaded comments with reactions, attachments, search
