@@ -4,7 +4,7 @@
 
 <p align="center">A light, adaptable task tracker and chat under one shell. Completely free.</p>
 
-# Krokq
+# Krokq (pronounced [krok])
 
 Think "Jira, but a lot simpler". Adaptable is the point: through simple connections Krokq bends to whatever a team actually needs, instead of forcing the team to bend to the tool.
 
